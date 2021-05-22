@@ -4,7 +4,7 @@ This repository contains code and files developed by Sulayman Salie for submissi
 Setup:
 Firstly, using pip3, install all dependencies and required libraries from the requirements.txt file
 run:
-pip3 install -r requirements.txt
+* pip3 install -r [requirements.txt](https://github.com/sulayman-s/dscode_challenge_SulaymanSalie_SPO-Data6/blob/main/requirements.txt)
 
 Question 1: Data Extraction
 
